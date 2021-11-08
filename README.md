@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @meettech30
-Passionate Mobile Application Developer! I Love To Create Wonders With Lines Of Codes! 
+<br>Passionate Mobile Application Developer! I Love To Create Wonders With Lines Of Codes! 
 I Like Exploring New Technologies, Gaming, Watching Movies & Tech Videos, Cooking, Travelling.
 
 <!---
